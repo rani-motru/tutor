@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "express": "^4.21.1",
+    "pug": "^3.0.3"
+  },
+  "name": "express-pug-app",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
